@@ -23,6 +23,7 @@ Lista com curadoria de materiais para o aprendizado e desenvolvimento em Blockch
 * [Consenso](https://www.geeksforgeeks.org/consensus-algorithms-in-blockchain/)
 * [Ledger](https://www.geeksforgeeks.org/blockchain-and-distributed-ledger-technology-dlt/?ref=rp)
 * [Ranking criptomoedas](https://coinmarketcap.com/)
+* [Desafios e oportunidades](https://allquantor.at/blockchainbib/pdf/zheng2018blockchain.pdf)
 
 ## Plataformas
 * [BitCoin](https://bitcoin.org/)
