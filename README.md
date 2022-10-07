@@ -17,7 +17,8 @@ Lista com curadoria de materiais para o aprendizado e desenvolvimento em Blockch
 </details>
 
 ## Introdução básica
-* [Blockchain](https://github.com/lesc-ufv/materialBlockchain/blob/main/introducao.pdf) [1](https://www.geeksforgeeks.org/blockchain-technology-introduction/?ref=rp), [2](https://www.geeksforgeeks.org/introduction-to-blockchain/?ref=rp), [3](https://www.geeksforgeeks.org/benefits-of-blockchain-technology/?ref=rp)
+* [Blockchain](https://github.com/lesc-ufv/materialBlockchain/blob/main/introducao.pdf) --> Referência completa [Minicurso SBRC](https://sol.sbc.org.br/livros/index.php/sbc/catalog/download/29/96/246-1?inline=1) 
+* Links adicionias introdutórios: [1](https://www.geeksforgeeks.org/blockchain-technology-introduction/?ref=rp), [2](https://www.geeksforgeeks.org/introduction-to-blockchain/?ref=rp), [3](https://www.geeksforgeeks.org/benefits-of-blockchain-technology/?ref=rp)
 * [Criptografia](https://www.geeksforgeeks.org/cryptography-in-blockchain/)
 * [Consenso](https://www.geeksforgeeks.org/consensus-algorithms-in-blockchain/)
 * [Ledger](https://www.geeksforgeeks.org/blockchain-and-distributed-ledger-technology-dlt/?ref=rp)
